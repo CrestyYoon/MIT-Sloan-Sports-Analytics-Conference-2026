@@ -1,0 +1,13 @@
+metric,perspective,target,used_in
+def_gain_dist,defense,self,hold|xG|xT
+def_gap_mean,defense,opp,hold|xG|xT
+def_gap_std,defense,opp,hold|xG|xT
+def_linegap_mean,defense,opp,hold|xG|xT
+def_linegap_std,defense,opp,hold|xG|xT
+def_miss_pos_line,defense,self,hold|xG|xT
+def_suc,defense,self,hold|xG|xT
+def_suc_pos_line_box,defense,self,hold|xG|xT
+seq_def_num,defense,self,hold|xG|xT
+shot_blocked_def,defense,opp,hold|xG|xT
+shot_offpost_def,defense,opp,hold|xG|xT
+shot_saved_def,defense,opp,hold|xG|xT

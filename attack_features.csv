@@ -1,0 +1,13 @@
+metric,perspective,target,used_in
+att_miss,attack,self,hold|xG|xT
+box_pass_suc,attack,self,hold|xG|xT
+box_pass_try,attack,self,hold|xG|xT
+break_line_suc,attack,self,hold|xG|xT
+break_line_try,attack,self,hold|xG|xT
+seq_duration,attack,self,hold|xG|xT
+seq_event_num,attack,self,hold|xG|xT
+shot_blocked_att,attack,self,hold|xG|xT
+shot_offpost_att,attack,self,hold|xG|xT
+shot_saved_att,attack,self,hold|xG|xT
+zone14_pass_suc,attack,self,hold|xG|xT
+zone14_pass_try,attack,self,hold|xG|xT
